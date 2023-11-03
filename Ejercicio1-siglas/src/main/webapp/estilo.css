@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body{
+	
+	background-color:aqua;
+}
+.todo{
+	
+	font-family:verdana;
+}
+.texto__centrado1{
+	
+	text-align:center;
+	color:blue;
+}
+.texto__centrado2{
+	
+	color:red;
+}
+
+.texto__centradoplata{
+	
+	background-color:silver;
+	text-align:center;
+	color:blue,
+}
+
+.texto__derecha{
+	
+	font-size:20px;
+    text-align:right;
+	color:blue;
+}
+.texto__derecharojo{
+
+    text-align:right;
+	color:red;	
+}
+.texto__centradoplata2{
+	
+	background-color:silver;
+	text-align:center;
+	color:blue,
+}
